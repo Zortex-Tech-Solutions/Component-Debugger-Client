@@ -175,7 +175,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/component-debugger/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/component-debugger/discussions)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **Twitter**: [@SYOP200](https://twitter.com/SYOP200)
 
 ## 🙏 Acknowledgments
 
@@ -185,12 +185,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/component-debugger?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/component-debugger?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/component-debugger)
+![GitHub stars](https://img.shields.io/github/stars/SYOP200/component-debugger-client?style=social)
+![GitHub forks](https://img.shields.io/github/forks/SYOP200/component-debugger-client?style=social)
+![GitHub issues](https://img.shields.io/github/issues/SYOP200/component-debugger-client)
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [SYOP200](https://github.com/SYOP200)
 
 **Star this repo if you find it helpful!** ⭐
